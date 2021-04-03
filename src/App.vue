@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <app-YourLogo></app-YourLogo>
-<!--    <app-header></app-header>-->
+<!--    <app-Home></app-Home>-->
 <!--    <add-about></add-about>-->
     <router-view></router-view>
   </div>
@@ -9,7 +9,7 @@
 
 <script>
 import AppYourLogo from './components/Your Logo.vue'
-// import AppHeader from './components/header.vue'
+// import AppHeader from './components/Home.vue'
 // import AddAbout from './components/About.vue'
 
 export default {

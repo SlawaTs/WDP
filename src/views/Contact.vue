@@ -6,7 +6,7 @@
       <div class="contact__colump">
         <div class="item-contact">
          <div class="item-contact__icon">
-           <img src="../assets/contacts/2.png">
+           <img src="../assets/images/contacts/2.png">
          </div>
          <div class="item-contact__title">Nobinagar savar,Dhaka Bangladesh</div>
         </div>
@@ -14,7 +14,7 @@
       <div class="contact__colump">
         <div class="item-contact">
           <div class="item-contact__icon">
-            <img src="../assets/contacts/3.png">
+            <img src="../assets/images/contacts/3.png">
           </div>
           <div class="item-contact__title"> +8801743331996 +8801928737807</div>
        </div>
@@ -22,7 +22,7 @@
       <div class="contact__colump">
         <div class="item-contact">
           <div class="item-contact__icon">
-            <img src="../assets/contacts/4.png">
+            <img src="../assets/images/contacts/4.png">
           </div>
          <div class="item-contact__title">quickmasud@gmail.com quickmasud@yahoo.com</div>
         </div>
@@ -55,7 +55,7 @@ export default {
 </script>
 <style>
 .contact{
-  background-image: url("../assets/contacts/1.jpg");
+  background-image: url("../assets/images/contacts/1.jpg");
   height: 1254px;
   width: 1400px;
   color: white;

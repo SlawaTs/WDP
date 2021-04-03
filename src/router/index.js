@@ -1,8 +1,8 @@
 import VueRouter from 'vue-router'
-import About from '../components/About'
-import header from "../components/header"
-import Services from "@/components/Services";
-import Contact from "@/components/Contact";
+import About from '../views/About'
+import Home from "../views/Home"
+import Services from "@/views/Services";
+import Contact from "@/views/Contact";
 // import NotFound from ""
 
 export default  new VueRouter({
@@ -10,7 +10,7 @@ export default  new VueRouter({
         {
             path: '/home',
             name: 'home',
-            component: header
+            component: Home
         },
         {
             path: '/about',

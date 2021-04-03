@@ -7,21 +7,21 @@
   <div class="about__row">
     <div class="about__colump">
       <div class="item-about">
-        <div class="item-about__icon"><img src="../assets/about/1.jpg"></div>
+        <div class="item-about__icon"><img src="../assets/images/about/1.jpg"></div>
        <div class="item-about__title">Awesome Icons</div>
        <div class="item-about__text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</div>
       </div>
       </div>
     <div class="about__colump">
       <div class="item-about">
-        <div class="item-about__icon"><img src="../assets/about/2.jpg"></div>
+        <div class="item-about__icon"><img src="../assets/images/about/2.jpg"></div>
         <div class="item-about__title">One Page</div>
         <div class="item-about__text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor </div>
       </div>
     </div>
     <div class="about__colump">
       <div class="item-about">
-        <div class="item-about__icon"><img src="../assets/about/3.jpg"></div>
+        <div class="item-about__icon"><img src="../assets/images/about/3.jpg"></div>
         <div class="item-about__title">Fully Responsive</div>
         <div class="item-about__text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</div>
       </div>

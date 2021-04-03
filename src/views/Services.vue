@@ -6,7 +6,7 @@
       <div class="services__colump" v-for="(item, index) in info"
            :key="index">
         <div class="item-services" >
-          <div class="item-services__icon"><img src="../assets/services/1.jpg"></div>
+          <div class="item-services__icon"><img src="../assets/images/services/1.jpg"></div>
           <div class="item-services__title">{{item.name}}</div>
           <div class="item-services__text">{{item.text}}</div>
           <div class="services__btn">

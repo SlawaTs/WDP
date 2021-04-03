@@ -1,6 +1,6 @@
 <template>
 <div>
-  <img src="../assets/header/headerImage.jpg">
+  <img src="../assets/images/Home/headerImage.jpg">
   <div class="home-header">
   <h1 class="home-heading">
     Web development project
