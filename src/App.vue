@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <app-YourLogo></app-YourLogo>
+    <app-nav-bar></app-nav-bar>
 <!--    <app-Home></app-Home>-->
 <!--    <add-about></add-about>-->
     <router-view></router-view>
@@ -8,14 +8,14 @@
 </template>
 
 <script>
-import AppYourLogo from './components/Your Logo.vue'
+import AppNavBar from './components/NavBar.vue'
 // import AppHeader from './components/Home.vue'
 // import AddAbout from './components/About.vue'
 
 export default {
   name: 'App',
   components: {
-    AppYourLogo,
+    AppNavBar,
     // AppHeader,
     // AddAbout
   }
